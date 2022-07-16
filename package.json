@@ -1,8 +1,9 @@
 {
   "name": "my-first-pckge-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "repository": "https://github.com/qorncat/my-first-npm-package",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
